@@ -1,3 +1,3 @@
 # my-game
-this is my first project
-name shubham singh
+This is my first project.
+Name- Shubham Singh
